@@ -23,6 +23,13 @@ def long_planeteer_calls(array)
   end 
 end 
 
+def find_the_cheese(snacks)
+  cheese = ["gouda", "cheddar", "camembert"]
+  snacks.find do |type|
+    cheese.include?(type)
+  end 
+end 
+
 
 
 

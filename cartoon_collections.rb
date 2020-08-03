@@ -26,7 +26,7 @@ end
 
 def find_the_cheese(array)
   cheese = ["cheddar","gouda","camembert"]
-  array.each d
+  array.each find do |
 end 
 
 

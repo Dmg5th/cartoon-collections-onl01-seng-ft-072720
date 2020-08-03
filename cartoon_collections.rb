@@ -25,7 +25,8 @@ def long_planeteer_calls(calls)
 end 
 
 def find_the_cheese(array)
-  
+  cheese = ["cheddar","gouda","camembert"]
+  array.each d
 end 
 
 

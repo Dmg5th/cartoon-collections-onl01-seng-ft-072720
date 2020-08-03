@@ -11,7 +11,7 @@ def roll_call_dwarves(array)
    end 
 end 
 
-def planeteer_calls(array)
+def summon_captain_planet(array)
   array.map do |call|
     "#{call.capitalize}!"
   end 
